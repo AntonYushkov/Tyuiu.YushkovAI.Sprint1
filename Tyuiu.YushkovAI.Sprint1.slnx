@@ -4,8 +4,14 @@
     <Project Path="Tyuiu.YushkovAI.Sprint1.Task0.V4.Test/Tyuiu.YushkovAI.Sprint1.Task0.V4.Test.csproj" Id="7aa77b8e-3d7b-4a64-8192-14bda2826f30" />
     <Project Path="Tyuiu.YushkovAI.Sprint1.Task0.V4/Tyuiu.YushkovAI.Sprint1.Task0.V4.csproj" Id="acc56b07-c205-4a5d-92d0-9deda5280911" />
   </Folder>
-  <Folder Name="/Task1/" />
-  <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12.Lib/Tyuiu.YushkovAI.Sprint1.Task1.V12.Lib.csproj" />
-  <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12.Test/Tyuiu.YushkovAI.Sprint1.Task1.V12.Test.csproj" />
-  <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12/Tyuiu.YushkovAI.Sprint1.Task1.V12.csproj" />
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12.Lib/Tyuiu.YushkovAI.Sprint1.Task1.V12.Lib.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12.Test/Tyuiu.YushkovAI.Sprint1.Task1.V12.Test.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task1.V12/Tyuiu.YushkovAI.Sprint1.Task1.V12.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task2.V12.Lib/Tyuiu.YushkovAI.Sprint1.Task2.V12.Lib.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task2.V12.Test/Tyuiu.YushkovAI.Sprint1.Task2.V12.Test.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint1.Task2.V12/Tyuiu.YushkovAI.Sprint1.Task2.V12.csproj" />
+  </Folder>
 </Solution>
