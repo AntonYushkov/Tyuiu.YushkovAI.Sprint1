@@ -6,7 +6,7 @@ namespace Tyuiu.YushkovAI.Sprint1.Task0.V4;
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Гойтиев Т. К. | ПКТб-26-1";
+            Console.Title =  "Спринт #1 | Выполнил: Юшков А. И. | ПКТб-26-1";
             Console.WriteLine("********************************************************************************************************");
             Console.WriteLine("* Спринт #1                                                                                            *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                                     *");
